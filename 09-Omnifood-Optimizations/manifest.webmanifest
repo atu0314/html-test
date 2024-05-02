@@ -1,0 +1,6 @@
+{
+    "icons": [
+        { "src": "img/favicon - az-icon-192.jpg", "type": "image/jpeg", "size": "192x912" },
+        { "src": "img/favicon - az-icon-512.jpg", "type": "image/jpeg", "size": "512x512" }
+    ]
+}

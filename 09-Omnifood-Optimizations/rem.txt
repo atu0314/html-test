@@ -1,0 +1,14 @@
+<div class="test">Test</div>
+
+
+.test {
+  background-color: red;
+  /* width: 1000px; */
+  /* max-width: 1000px; 如果容器宽度大于指定max-width，则容器宽度等于max-width，若小于，则容器宽度为100% */
+
+  max-width: 50rem;
+  /*Default 1 rem = 16 px -> 50rem=800px*/
+  padding: 4rem;
+  color: #fff;
+  font-size: 2rem;
+}
